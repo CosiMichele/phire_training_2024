@@ -13,3 +13,4 @@ Extra test line.
 EXTRA EXTRA TEST LINE.
 
 EXTRA EXTRA **EXTRA** test line.
+EXTRA EXTRA **EXTRA** EXTRA EXTRA **EXTRA** test line EXTRA EXTRA **EXTRA** test line.
